@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\order\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,12 +35,24 @@
       "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|c:\\users\\dat\\source\\repos\\bai4_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F2F95-0348-4FF9-AA45-5C6B71B771A0}|Bai4_Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,120 +74,160 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T03:59:22.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T14:50:46.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T14:50:27.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T14:36:35.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "thankyou.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Order\\thankyou.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\thankyou.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Order\\thankyou.cshtml",
+              "RelativeToolTip": "Views\\Order\\thankyou.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T14:50:56.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Services\\Index.cshtml",
+              "RelativeToolTip": "Views\\Services\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T03:56:48.325Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
               "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Shop\\Index.cshtml",
               "RelativeToolTip": "Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T14:51:09.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T14:50:46.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Checkout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Cart\\Checkout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cart\\Checkout.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Cart\\Checkout.cshtml",
-              "RelativeToolTip": "Views\\Cart\\Checkout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T14:50:27.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T14:50:19.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Services.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Home\\Services.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Services.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Home\\Services.cshtml",
-              "RelativeToolTip": "Views\\Home\\Services.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T14:49:50.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T14:39:39.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T14:37:39.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "thankyou.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Order\\thankyou.cshtml",
-              "RelativeDocumentMoniker": "Views\\Order\\thankyou.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Order\\thankyou.cshtml",
-              "RelativeToolTip": "Views\\Order\\thankyou.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T14:50:56.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T14:51:09.167Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T14:36:35.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T14:50:19.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T03:51:31.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:59:14.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:51:19.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:56:37.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DAT\\source\\repos\\Bai4_Web\\Views\\shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T15:16:51.613Z"
             }
           ]
         },

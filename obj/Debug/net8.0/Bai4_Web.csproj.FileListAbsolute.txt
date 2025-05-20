@@ -28,3 +28,4 @@ C:\Users\DAT\source\repos\Bai4_Web\obj\Debug\net8.0\refint\Bai4_Web.dll
 C:\Users\DAT\source\repos\Bai4_Web\obj\Debug\net8.0\Bai4_Web.pdb
 C:\Users\DAT\source\repos\Bai4_Web\obj\Debug\net8.0\Bai4_Web.genruntimeconfig.cache
 C:\Users\DAT\source\repos\Bai4_Web\obj\Debug\net8.0\ref\Bai4_Web.dll
+C:\Users\DAT\source\repos\Bai4_Web\obj\Debug\net8.0\Bai4_Web.sourcelink.json
